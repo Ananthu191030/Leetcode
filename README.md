@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Ananthu191030/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Ananthu191030/Leetcode/tree/master/0812-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Ananthu191030/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+## Sorting
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Ananthu191030/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
