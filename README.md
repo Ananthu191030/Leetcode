@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ananthu191030/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2716-prime-subtraction-operation](https://github.com/Ananthu191030/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ananthu191030/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ananthu191030/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [2716-prime-subtraction-operation](https://github.com/Ananthu191030/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ananthu191030/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Math
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Ananthu191030/Leetcode/tree/master/2716-prime-subtraction-operation) |
+## Greedy
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Ananthu191030/Leetcode/tree/master/2716-prime-subtraction-operation) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Ananthu191030/Leetcode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
