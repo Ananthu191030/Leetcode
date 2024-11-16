@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Ananthu191030/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ananthu191030/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ananthu191030/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Ananthu191030/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ananthu191030/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Ananthu191030/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Math
 |  |
 | ------- |
