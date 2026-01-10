@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Ananthu191030/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ananthu191030/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/Ananthu191030/Leetcode/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ananthu191030/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Ananthu191030/Leetcode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ananthu191030/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0812-rotate-string](https://github.com/Ananthu191030/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ananthu191030/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
