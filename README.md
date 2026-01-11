@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Ananthu191030/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ananthu191030/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ananthu191030/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Ananthu191030/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2580-circular-sentence](https://github.com/Ananthu191030/Leetcode/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ananthu191030/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/Ananthu191030/Leetcode/tree/master/3451-string-compression-iii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2027-minimum-moves-to-convert-string](https://github.com/Ananthu191030/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2716-prime-subtraction-operation](https://github.com/Ananthu191030/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
