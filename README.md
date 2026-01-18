@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ananthu191030/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/Ananthu191030/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0300-longest-increasing-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Ananthu191030/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ananthu191030/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ananthu191030/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ananthu191030/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Ananthu191030/Leetcode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Ananthu191030/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Ananthu191030/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0300-longest-increasing-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Ananthu191030/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ananthu191030/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/Ananthu191030/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Design
 |  |
 | ------- |
@@ -153,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Ananthu191030/Leetcode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Ananthu191030/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
