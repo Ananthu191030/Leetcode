@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ananthu191030/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1048-longest-string-chain](https://github.com/Ananthu191030/Leetcode/tree/master/1048-longest-string-chain) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ananthu191030/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1755-defuse-the-bomb](https://github.com/Ananthu191030/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ananthu191030/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2716-prime-subtraction-operation](https://github.com/Ananthu191030/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1048-longest-string-chain](https://github.com/Ananthu191030/Leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Ananthu191030/Leetcode/tree/master/1092-shortest-common-supersequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ananthu191030/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ananthu191030/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## String
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ananthu191030/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Ananthu191030/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ananthu191030/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Design
 |  |
 | ------- |
