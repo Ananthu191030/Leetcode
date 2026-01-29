@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ananthu191030/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Ananthu191030/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Ananthu191030/Leetcode/tree/master/0130-surrounded-regions) |
 | [0300-longest-increasing-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Ananthu191030/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ananthu191030/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ananthu191030/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Ananthu191030/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Ananthu191030/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Ananthu191030/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ananthu191030/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ananthu191030/Leetcode/tree/master/0994-rotting-oranges) |
@@ -177,11 +179,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Ananthu191030/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Ananthu191030/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ananthu191030/Leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Ananthu191030/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Ananthu191030/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ananthu191030/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ananthu191030/Leetcode/tree/master/0733-flood-fill) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Ananthu191030/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Ananthu191030/Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
