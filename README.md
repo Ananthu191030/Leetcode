@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/Ananthu191030/Leetcode/tree/master/0733-flood-fill) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ananthu191030/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Ananthu191030/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/Ananthu191030/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ananthu191030/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/Ananthu191030/Leetcode/tree/master/1048-longest-string-chain) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Ananthu191030/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0812-rotate-string](https://github.com/Ananthu191030/Leetcode/tree/master/0812-rotate-string) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Ananthu191030/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1048-longest-string-chain](https://github.com/Ananthu191030/Leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Ananthu191030/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ananthu191030/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ananthu191030/Leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ananthu191030/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ananthu191030/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Ananthu191030/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1048-longest-string-chain](https://github.com/Ananthu191030/Leetcode/tree/master/1048-longest-string-chain) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ananthu191030/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Counting
