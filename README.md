@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ananthu191030/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0542-01-matrix](https://github.com/Ananthu191030/Leetcode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0721-accounts-merge](https://github.com/Ananthu191030/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ananthu191030/Leetcode/tree/master/0733-flood-fill) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ananthu191030/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Ananthu191030/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ananthu191030/Leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ananthu191030/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0721-accounts-merge](https://github.com/Ananthu191030/Leetcode/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/Ananthu191030/Leetcode/tree/master/0812-rotate-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Ananthu191030/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1048-longest-string-chain](https://github.com/Ananthu191030/Leetcode/tree/master/1048-longest-string-chain) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Ananthu191030/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0721-accounts-merge](https://github.com/Ananthu191030/Leetcode/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/Ananthu191030/Leetcode/tree/master/1048-longest-string-chain) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ananthu191030/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ananthu191030/Leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ananthu191030/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ananthu191030/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0721-accounts-merge](https://github.com/Ananthu191030/Leetcode/tree/master/0721-accounts-merge) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Ananthu191030/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1048-longest-string-chain](https://github.com/Ananthu191030/Leetcode/tree/master/1048-longest-string-chain) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ananthu191030/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ananthu191030/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ananthu191030/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Ananthu191030/Leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Ananthu191030/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ananthu191030/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ananthu191030/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ananthu191030/Leetcode/tree/master/0785-is-graph-bipartite) |
@@ -216,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ananthu191030/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Ananthu191030/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ananthu191030/Leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Ananthu191030/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ananthu191030/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ananthu191030/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ananthu191030/Leetcode/tree/master/0785-is-graph-bipartite) |
@@ -230,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ananthu191030/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Ananthu191030/Leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Ananthu191030/Leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Ananthu191030/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Ananthu191030/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Ananthu191030/Leetcode/tree/master/1631-path-with-minimum-effort) |
