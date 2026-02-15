@@ -1,174 +1,86 @@
-import java.util.*;
-
-class DisjointSet {
-    /* To store the ranks, parents and 
-    sizes of different set of vertices */
-    int[] rank, parent, size;
-
-    // Constructor
-    DisjointSet(int n) {
-        rank = new int[n + 1];
-        parent = new int[n + 1];
-        size = new int[n + 1];
-        for (int i = 0; i <= n; i++) {
-            parent[i] = i;
-            size[i] = 1;
-        }
+class DisjointSet{
+    int[] rank,size,par;
+    DisjointSet(int n){
+        rank=new int[n+1];
+        par=new int[n+1];
+        size=new int[n+1];
+        for(int i=0;i<n;i++)
+        {
+            par[i]=i;
+            size[i]=1;
     }
-
-    // Function to find ultimate parent
-    int findUPar(int node) {
-        if (node == parent[node])
-            return node;
-        return parent[node] = findUPar(parent[node]);
     }
-
-    // Function to implement union by rank
-    void unionByRank(int u, int v) {
-        int ulp_u = findUPar(u);
-        int ulp_v = findUPar(v);
-        if (ulp_u == ulp_v) return;
-        if (rank[ulp_u] < rank[ulp_v]) {
-            parent[ulp_u] = ulp_v;
-        }
-        else if (rank[ulp_v] < rank[ulp_u]) {
-            parent[ulp_v] = ulp_u;
-        }
-        else {
-            parent[ulp_v] = ulp_u;
-            rank[ulp_u]++;
-        }
+    int findPar(int node){
+        if(par[node]==node)
+        return node;
+        return par[node]=findPar(par[node]);
     }
-
-    // Function to implement union by size
-    void unionBySize(int u, int v) {
-        int ulp_u = findUPar(u);
-        int ulp_v = findUPar(v);
-        if (ulp_u == ulp_v) return;
-        if (size[ulp_u] < size[ulp_v]) {
-            parent[ulp_u] = ulp_v;
-            size[ulp_v] += size[ulp_u];
+    void unionBySize(int u,int v){
+        int upu=findPar(u);
+        int upv=findPar(v);
+        if(upu==upv) return;
+        if(size[upu]<size[upv]){
+            par[upu]=upv;
+            size[upv]+=size[upu];
         }
-        else {
-            parent[ulp_v] = ulp_u;
-            size[ulp_u] += size[ulp_v];
+        else{
+            par[upv]=upu;
+            size[upu]+=size[upv];
         }
     }
 }
-
-// Solution class
 class Solution {
-    // DelRow and delCol for neighbors
-    private int[] delRow = {-1, 0, 1, 0};
-    private int[] delCol = {0, 1, 0, -1};
-    
-    /* Helper function to check 
-    if a pixel is within boundaries */
-    private boolean isValid(int i, int j, int n) {
-        // Return false if pixel is invalid
-        if (i < 0 || i >= n) return false;
-        if (j < 0 || j >= n) return false;
-        
-        // Return true if pixel is valid
+    int[] delR={-1,0,1,0};
+    int[] delC={0,1,0,-1};
+    public boolean valid(int i,int j,int n){
+        if(i<0||i>=n) return false;
+        if(j<0||j>=n) return false;
         return true;
     }
-    
-    /* Function to add initial islands to 
-    the disjoint set data structure */
-    private void addInitialIslands(int[][] grid, 
-                                   DisjointSet ds, int n) {
-        // Traverse all the cells in the grid
-        for (int row = 0; row < n; row++) {
-            for (int col = 0; col < n; col++) {
-                // If the cell is not land, skip
-                if (grid[row][col] == 0) continue;
-                
-                // Traverse on all the neighbors
-                for (int ind = 0; ind < 4; ind++) {
-                    // Get the coordinates of neighbor
-                    int newRow = row + delRow[ind];
-                    int newCol = col + delCol[ind];
-                    
-                    // If the cell is valid and a land cell
-                    if (isValid(newRow, newCol, n) && 
-                        grid[newRow][newCol] == 1) {
-                        // Get the number for node
-                        int nodeNo = row * n + col;
-                        // Get the number for neighbor
-                        int adjNodeNo = newRow * n + newCol;
-                        
-                        /* Take union of both nodes as they
-                        are part of the same island */
-                        ds.unionBySize(nodeNo, adjNodeNo);
+    public void addIniIsland(int[][] grid,DisjointSet ds,int n
+    ){
+        for(int r=0;r<n;r++){
+            for(int c=0;c<n;c++){
+                if(grid[r][c]==0) continue;
+                for(int ind=0;ind<4;ind++){
+                    int newR=delR[ind]+r;
+                    int newC=delC[ind]+c;
+                    if(valid(newR,newC,n)&& grid[newR][newC]==1){
+                        int nodenum=r*n+c;
+                        int adjnum=newR*n+newC;
+                        ds.unionBySize(nodenum,adjnum);
                     }
-                }
+                    }
             }
         }
     }
-    
-    // Function to get the size of the largest island
     public int largestIsland(int[][] grid) {
-        // Dimensions of grid
-        int n = grid.length;
-        
-        // Disjoint set data structure
-        DisjointSet ds = new DisjointSet(n * n);
-        
-        /* Function call to add initial
-        islands in the disjoint set */
-        addInitialIslands(grid, ds, n);
-        
-        // To store the answer
-        int ans = 0;
-        
-        // Traverse on the grid
-        for (int row = 0; row < n; row++) {
-            for (int col = 0; col < n; col++) {
-                
-                // If the cell is a land cell, skip
-                if (grid[row][col] == 1) continue;
-                
-                /* Set to store the ultimate 
-                parents of neighboring islands */
-                Set<Integer> components = new HashSet<>();
-                
-                // Traverse on all its neighbors
-                for (int ind = 0; ind < 4; ind++) {
-                    // Coordinates of neighboring cell
-                    int newRow = row + delRow[ind];
-                    int newCol = col + delCol[ind];
-                    
-                    if (isValid(newRow, newCol, n) && 
-                        grid[newRow][newCol] == 1) {
-                            
-                        /* Perform union and store 
-                        ultimate parent in the set */
-                        int nodeNumber = newRow * n + newCol;
-                        components.add(ds.findUPar(nodeNumber));
-                    }
+        int n=grid.length;
+        DisjointSet ds=new DisjointSet(n*n);
+        addIniIsland(grid,ds,n);
+        int ans=0;
+        for(int r=0;r<n;r++){
+        for(int c=0;c<n;c++){
+            if(grid[r][c]==1) continue;
+            Set<Integer> s=new HashSet<>();
+            for(int ind=0;ind<4;ind++){
+                int newR=r+delR[ind];
+                int newC=c+delC[ind];
+                if(valid(newR,newC,n)&&grid[newR][newC]==1){
+                    int noden=newR*n+newC;
+                    s.add(ds.findPar(noden));
                 }
-                
-                // To store the size of current largest island
-                int sizeTotal = 0;
-                
-                // Iterate on all the neighboring ultimate parents
-                for (int parent : components) {
-                    // Update the size
-                    sizeTotal += ds.size[ds.findUPar(parent)];
-                }
-                
-                // Store the maximum size of island
-                ans = Math.max(ans, sizeTotal + 1);
             }
+            int tot=0;
+            for(int pa:s){
+                tot+=ds.size[ds.findPar(pa)];
+            }
+            ans=Math.max(ans,tot+1);
         }
-        
-        // Edge case
-        for (int cellNo = 0; cellNo < n * n; cellNo++) {
-            // Keep the answer updated
-            ans = Math.max(ans, ds.size[ds.findUPar(cellNo)]);
         }
-        
-        // Return the answer
+         for (int cellNo = 0; cellNo < n * n; cellNo++) {
+            ans = Math.max(ans, ds.size[ds.findPar(cellNo)]);
+        }
         return ans;
     }
 }
