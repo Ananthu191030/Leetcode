@@ -76,7 +76,6 @@ class Solution {
                 }
             }
 
-            // check if start and end are connected
             if (ds.findPar(0) == ds.findPar(total - 1)) {
                 return height;
             }
