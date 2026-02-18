@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Ananthu191030/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ananthu191030/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Ananthu191030/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ananthu191030/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/Ananthu191030/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1048-longest-string-chain](https://github.com/Ananthu191030/Leetcode/tree/master/1048-longest-string-chain) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ananthu191030/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ananthu191030/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ananthu191030/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ananthu191030/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3719-longest-balanced-subarray-i](https://github.com/Ananthu191030/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Stack
 |  |
 | ------- |
@@ -285,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Ananthu191030/Leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ananthu191030/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ananthu191030/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Ananthu191030/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
