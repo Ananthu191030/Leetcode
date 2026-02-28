@@ -4,32 +4,31 @@ class Solution {
         for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
-        for(int[] fli:flights){
+        for(int fli[]:flights){
             adj.get(fli[0]).add(new int[]{fli[1],fli[2]});
         }
-        System.out.println(adj);
         Queue<int[]> q=new LinkedList<>();
-        q.offer(new int[]{0,src,0});
-        int dist[]=new int[n];
+        q.add(new int[]{0,src,0});
+        int dist[]=new int[n+1];
         Arrays.fill(dist,Integer.MAX_VALUE);
-        dist[src]=0;
         while(!q.isEmpty()){
-            int curr[]=q.poll();
-            int stops=curr[0];
-            int node=curr[1];
-            int cost=curr[2];
+            int c[]=q.poll();
+            int stops=c[0];
+            int node=c[1];
+            int cost=c[2];
             if(stops>k) continue;
-            for(int[] adjNode:adj.get(node)){
-                int nextn=adjNode[0];
-                int cos=adjNode[1];
-                if(cost+cos<dist[nextn]&&stops<=k){
-                    dist[nextn]=cost+cos;
-                    q.offer(new int[]{stops+1,nextn,cost+cos});
+            for(int[] nei:adj.get(node)){
+                int next=nei[0];
+                int cos=nei[1];
+                if(dist[next]>cost+cos && stops<=k)
+                {
+                    dist[next]=cost+cos;
+                    q.offer(new int[]{stops+1,next,cost+cos});
                 }
             }
         }
-        if(dist[dst]==Integer.MAX_VALUE)
-        return -1;
-        return dist[dst];
+      
+            if(dist[dst]==Integer.MAX_VALUE) return -1;
+            return dist[dst];
     }
 }
