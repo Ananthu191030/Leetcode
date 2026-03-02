@@ -1,14 +1,14 @@
 class Solution {
     public int minimumEffortPath(int[][] heights) {
          PriorityQueue<int[]> pq = new PriorityQueue<>(Comparator.comparingInt(a -> a[0]));
-         int n = heights.length;  // Number of rows
-        int m = heights[0].length;  // Number of columns
+         int n = heights.length;  
+        int m = heights[0].length;  
         int[][] dist = new int[n][m];
         for (int[] row : dist) {
             Arrays.fill(row, Integer.MAX_VALUE);
         }
-        dist[0][0] = 0;  // Distance for the source cell (0, 0) is 0
-        pq.add(new int[]{0, 0, 0});  // Push source cell to the priority queue
+        dist[0][0] = 0;  
+        pq.add(new int[]{0, 0, 0});  
         int[] dr = {-1, 0, 1, 0};
         int[] dc = {0, 1, 0, -1};
         while (!pq.isEmpty()) {
