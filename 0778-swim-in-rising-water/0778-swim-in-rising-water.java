@@ -15,7 +15,7 @@ class DisjointSet {
     int findPar(int node) {
         if (parent[node] == node)
             return node;
-        return parent[node] = findPar(parent[node]); // path compression
+        return parent[node] = findPar(parent[node]); 
     }
 
     void unionByRank(int u, int v) {
@@ -41,8 +41,6 @@ class Solution {
         int total = n * n;
 
         DisjointSet ds = new DisjointSet(total);
-
-        // store cells as (height, row, col)
         List<int[]> cells = new ArrayList<>();
 
         for (int i = 0; i < n; i++) {
@@ -51,7 +49,6 @@ class Solution {
             }
         }
 
-        // sort by height
         Collections.sort(cells, (a, b) -> a[0] - b[0]);
 
         boolean[][] visited = new boolean[n][n];
