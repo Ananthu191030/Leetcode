@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Ananthu191030/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ananthu191030/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Ananthu191030/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ananthu191030/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Ananthu191030/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Ananthu191030/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ananthu191030/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Ananthu191030/Leetcode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Ananthu191030/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2716-prime-subtraction-operation](https://github.com/Ananthu191030/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ananthu191030/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Ananthu191030/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ananthu191030/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
