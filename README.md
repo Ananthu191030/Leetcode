@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ananthu191030/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Ananthu191030/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Ananthu191030/Leetcode/tree/master/0130-surrounded-regions) |
+| [0198-house-robber](https://github.com/Ananthu191030/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ananthu191030/Leetcode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Ananthu191030/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Ananthu191030/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Ananthu191030/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Ananthu191030/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0198-house-robber](https://github.com/Ananthu191030/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Ananthu191030/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
