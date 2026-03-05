@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ananthu191030/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Ananthu191030/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Ananthu191030/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Ananthu191030/Leetcode/tree/master/0130-surrounded-regions) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ananthu191030/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ananthu191030/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ananthu191030/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Ananthu191030/Leetcode/tree/master/0070-climbing-stairs) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ananthu191030/Leetcode/tree/master/0055-jump-game) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Ananthu191030/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2716-prime-subtraction-operation](https://github.com/Ananthu191030/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
