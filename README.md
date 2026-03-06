@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ananthu191030/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Ananthu191030/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ananthu191030/Leetcode/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/Ananthu191030/Leetcode/tree/master/0740-delete-and-earn) |
 | [0778-swim-in-rising-water](https://github.com/Ananthu191030/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Ananthu191030/Leetcode/tree/master/0827-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ananthu191030/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Ananthu191030/Leetcode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ananthu191030/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0740-delete-and-earn](https://github.com/Ananthu191030/Leetcode/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ananthu191030/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1048-longest-string-chain](https://github.com/Ananthu191030/Leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Ananthu191030/Leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Ananthu191030/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ananthu191030/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0721-accounts-merge](https://github.com/Ananthu191030/Leetcode/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/Ananthu191030/Leetcode/tree/master/0740-delete-and-earn) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Ananthu191030/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1048-longest-string-chain](https://github.com/Ananthu191030/Leetcode/tree/master/1048-longest-string-chain) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ananthu191030/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
