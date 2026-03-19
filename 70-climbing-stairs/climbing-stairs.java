@@ -9,9 +9,8 @@ class Solution {
         if(n<0)return 0;
         if(dp[n]!=-1) return dp[n];
         else{
-        int take=f(n-1,dp);
-        int nontake=f(n-2,dp);
-        dp[n]=take+nontake;
+        int take=f(n-1,dp)+f(n-2,dp);
+        dp[n]=take;
         }
         return dp[n];
     }
