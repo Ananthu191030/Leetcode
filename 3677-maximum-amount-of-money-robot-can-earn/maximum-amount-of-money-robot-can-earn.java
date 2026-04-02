@@ -14,7 +14,6 @@ class Solution{
             return coins[r][c];
         }
 
-        // ✅ Out of bounds
         if (r >= m || c >= n) return Integer.MIN_VALUE;
 
         if (dp[r][c][k] != Integer.MIN_VALUE) return dp[r][c][k];
