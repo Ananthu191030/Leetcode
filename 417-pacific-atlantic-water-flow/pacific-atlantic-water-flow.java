@@ -3,11 +3,8 @@ class Solution {
         List<List<Integer>> result = new ArrayList<>();
         int m = heights.length;
         int n = heights[0].length;
-
         boolean[][] pacific = new boolean[m][n];
         boolean[][] atlantic = new boolean[m][n];
-
-        // DFS from Pacific borders
         for (int i = 0; i < m; i++) {
             dfs(i, 0, pacific, heights);
             dfs(i, n - 1, atlantic, heights);
@@ -17,8 +14,6 @@ class Solution {
             dfs(0, j, pacific, heights);
             dfs(m - 1, j, atlantic, heights);
         }
-
-        // Collect cells reachable by both
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (pacific[i][j] && atlantic[i][j]) {
@@ -43,7 +38,6 @@ class Solution {
                 newR < heights.length && newC < heights[0].length &&
                 !visited[newR][newC] &&
                 heights[newR][newC] >= heights[r][c]) {
-
                 dfs(newR, newC, visited, heights);
             }
         }
